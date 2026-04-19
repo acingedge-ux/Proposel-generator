@@ -1,0 +1,6 @@
+{
+  "name": "Client Proposal Generator",
+  "description": "A modern, full-stack web application for dev agencies to generate and manage client proposals using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
